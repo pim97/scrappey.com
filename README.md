@@ -9,6 +9,8 @@ Features
 - Scrape pages behind Cloudflare: The service allows you to scrape web pages protected by Cloudflare within 15 seconds, bypassing the protection.
 - Simple, No-Nonsense Pricing: The pricing structure is straightforward and transparent, with payment based on the number of requests made (per 1000 requests). There are no hidden fees.
 
+![Scrappey Landing](https://i.imgur.com/QSKfR1v.png)
+
 ![Scrappey Main](https://i.imgur.com/TmQN2jx.png)
 
 ![Scrappey White](https://i.imgur.com/QYogzF2.png)
